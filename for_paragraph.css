@@ -1,0 +1,19 @@
+p{
+    font-weight:900;
+    text-decoration:overline;
+    text-align:end;
+    color:white;
+    background-color:red;
+}
+h1{
+    font-weight:100;
+    text-decoration: blue underline dotted;
+    text-align:center;
+    color:yellow;
+}
+a{
+    text-decoration:none;
+}
+#Ram{
+    font-style:arial;
+}

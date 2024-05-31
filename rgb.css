@@ -1,0 +1,57 @@
+/* button{
+    background-color:rgb(255,0,0);
+    color:rgb(255,255,0);
+}
+p{
+     color:rgb(0,0,255); 
+    background-color:rgb(255,0,255)   
+}
+h1{
+    color:purple;
+    background:yellow;
+}
+body{
+    background-color:rgb(12, 214, 32);
+    
+}
+head{
+    background-color:white;
+} */
+
+/* p{
+    color:#ff0000;
+    background-color:#ffff00;
+    
+}
+body{background-color:#0000ff;
+
+}
+
+button{
+    color:black;
+    background-color:#03f0fc;
+} */
+#heading2{
+    background-color:aqua;
+}
+#heading3{
+    color:rgba(255, 217, 0, 0.373);
+}
+
+*{
+    color:blue;
+}
+*{
+    color:red;
+}
+ h1{
+    color:rgb(0, 255, 72)
+} 
+/* #heading3{
+    color:rgba(255, 217, 0, 0.373);
+}
+ */
+.Ram{
+    color:yellow;
+    background-color:magenta;
+}
